@@ -1,24 +1,14 @@
 import React from 'react';
-import '../App.css';
 import Navbar from '../components/Navbar';
+import '../App.css';
 
 function App() {
   return (
     <div className='App'>
       <Navbar />
-      <h1>
-        SITE
-        <br />
-        COMING SOON
-      </h1>
-      <a
-        className='App-link'
-        linkto='./enquiry'
-        href='./enquiry'
-        rel='noopener noreferrer'
-      >
-        Enquire
-      </a>
+      <h1>ABOUT</h1>
+      <h2>Lorem ipsum dolor sit amet, consectetur adip</h2>
+
       <a
         className='App-link'
         href='https://www.instagram.com/essence.in.4k'

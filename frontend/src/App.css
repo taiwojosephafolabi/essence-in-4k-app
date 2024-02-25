@@ -1,0 +1,45 @@
+* {
+  background-color: #252525;
+}
+
+.App {
+  text-align: center;
+  max-height: auto;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-family: 'Black Mango';
+  font-size: 6rem;
+  color: whitesmoke;
+  font-weight: normal;
+}
+
+a {
+  font-family: 'Helvetica';
+  color: #252525;
+  background: whitesmoke;
+  padding: 20px;
+  margin: 10px;
+  border: #252525 solid 2px;
+  border-style: outset;
+  border-radius: 10px;
+}
+
+a:link {
+  color: #252525;
+}
+
+a:hover {
+  color: #252525;
+  opacity: 50%;
+}
+
+a:focus {
+  color: #252525;
+}
+
+a:before {
+  color: #252525;
+}
